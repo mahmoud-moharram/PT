@@ -1,0 +1,12 @@
+http://206.189.108.218:8000/Sv_scan?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/os_scan?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/vulners?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/Sc_scan?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/vuln?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/port_80_443_vulns?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/vuln?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/nmap_HTTP_vulns?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/vuln?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/vuln?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/ftp_anon?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
+http://206.189.108.218:8000/ftp_vulns?Dera_Secret.api=f237d0b2fd7da4f239ef3cac61db570af50417c9
